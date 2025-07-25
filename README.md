@@ -17,7 +17,7 @@ This project presents an in-depth data analysis of booking data from InDrive (mo
 
 ## 📁 Dataset Information
 
-- **File:** `indrive Bookings-70000-Rows.xlsx`
+- **File:** [`indrive Bookings-70000-Rows.xlsx`]()
 - **Rows:** 70,000+
 - **Columns:** 19, including:
   - Booking Date, Time, ID
@@ -43,7 +43,7 @@ Performed various SQL queries to answer key business questions, including:
 7. Incomplete rides and their reasons  
 8. Payment trends (e.g., UPI vs Cash usage)
 
-> The queries are available in [`indrive_sql.sql`](indrive_ sql.sql)
+> The queries are available in [`indrive_sql.sql`](https://github.com/Abdulla-khan-0505/Data_Analyst_project/blob/main/indrive_%20sql.sql)
 
 ---
 
@@ -59,7 +59,7 @@ An interactive Power BI dashboard was developed to visualize insights such as:
 - ❌ **Reasons for Cancellation (Customer & Driver)**
 - 🧑‍🤝‍🧑 **Top 5 Customers by Booking Value**
 
-> 🖼️ A video walkthrough of the dashboard will be uploaded here soon.
+
 
 ---
 
@@ -82,10 +82,10 @@ An interactive Power BI dashboard was developed to visualize insights such as:
 ---
 
 ## ▶️ Video 
-
+Demonstration
 https://github.com/user-attachments/assets/b470895f-2066-4c00-bad4-ec9962ee9527
 
-Demonstration
+
 
 
 
@@ -99,4 +99,3 @@ Demonstration
 
 ---
 
-> 🔐 *No sensitive or real customer data is used in this project. All data is dummy and for educational purposes only.*
