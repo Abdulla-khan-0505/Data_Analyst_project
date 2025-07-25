@@ -26,7 +26,7 @@ This project presents an in-depth data analysis of booking data from InDrive (mo
   - Payment Method, Ratings
   - Cancellation & Incomplete Ride Reasons
 
-The dataset was synthetically created using realistic assumptions for a month of rides in Bangalore.
+The dataset was synthetically created using realistic assumptions for a month of rides .
 
 ---
 
@@ -81,9 +81,13 @@ An interactive Power BI dashboard was developed to visualize insights such as:
 
 ---
 
-## ▶️ Video Demonstration
+## ▶️ Video 
 
-*A demo video will be uploaded soon. Stay tuned!*
+https://github.com/user-attachments/assets/b470895f-2066-4c00-bad4-ec9962ee9527
+
+Demonstration
+
+
 
 ---
 
